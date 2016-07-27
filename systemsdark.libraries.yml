@@ -1,0 +1,21 @@
+global-styling:
+  css:
+    theme:
+      stylesheets/styles.css: {}
+
+bootstrap-scripts:
+  js:
+    //ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js: { type: external, minified: true }
+    javascripts/bootstrap.min.js: {}
+    javascripts/bootstrap/affix.js: {}
+    javascripts/bootstrap/alert.js: {}
+    javascripts/bootstrap/button.js: {}
+    javascripts/bootstrap/carousel.js: {}
+    javascripts/bootstrap/collapse.js: {}
+    javascripts/bootstrap/dropdown.js: {}
+    javascripts/bootstrap/modal.js: {}
+    javascripts/bootstrap/tooltip.js: {}
+    javascripts/bootstrap/popover.js: {}
+    javascripts/bootstrap/scrollspy.js: {}
+    javascripts/bootstrap/tab.js: {}
+    javascripts/bootstrap/transition.js: {}
